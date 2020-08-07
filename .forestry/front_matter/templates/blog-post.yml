@@ -12,3 +12,5 @@ fields:
       format: markdown
   label: Text field
   description: Text field.<br>
+pages:
+- _posts/test.md
