@@ -14,3 +14,4 @@ fields:
   description: Text field.<br>
 pages:
 - _posts/test.md
+- index.md
