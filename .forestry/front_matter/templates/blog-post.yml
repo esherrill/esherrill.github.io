@@ -13,5 +13,5 @@ fields:
   label: Text field
   description: Text field.<br>
 pages:
-- _posts/test.md
+- _posts/2020-08-07-test.md
 - index.md
