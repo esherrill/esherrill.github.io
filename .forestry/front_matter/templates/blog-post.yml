@@ -14,5 +14,5 @@ fields:
   description: Text field.<br>
 pages:
 - _posts/2020-08-07-test.md
+- _posts/testpost.md
 - index.html
-- index.md
